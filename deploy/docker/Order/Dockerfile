@@ -1,6 +1,6 @@
 FROM openjdk:8-jre
 
-MAINTAINER tucorreo@dominio
+MAINTAINER josemcmn@gmail.com
 
 RUN mkdir -p usr/local/app/
 
